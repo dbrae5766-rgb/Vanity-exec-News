@@ -1,1 +1,1 @@
-v0.0.1 - just home page 👍
+heyyyyy, working editor now, still no settings

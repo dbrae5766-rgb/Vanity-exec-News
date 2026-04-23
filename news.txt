@@ -1,3 +1,2 @@
-Less gooo, working settings, attach is broken tho
-waiting on the SpashAPI people to fix Madium cuz i cant code injectors
-or apis for that matter
+the injector im using got updated, now vanity works
+100 sunc and 99 unc (:

@@ -1,1 +1,3 @@
-heyyyyy, working editor now, still no settings
+Less gooo, working settings, attach is broken tho
+waiting on the SpashAPI people to fix Madium cuz i cant code injectors
+or apis for that matter

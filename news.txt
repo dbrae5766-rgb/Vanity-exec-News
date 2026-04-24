@@ -1,2 +1,3 @@
-the injector im using got updated, now vanity works
-100 sunc and 99 unc (:
+Vanity Release v1.0.0
+first ever release, comes with Madium API which has
+99 UNC and 100 sUNC, also includes RakNet library.
